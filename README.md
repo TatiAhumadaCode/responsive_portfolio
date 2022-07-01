@@ -2,4 +2,4 @@
 
 This a responsive portfolio 
 
-Live preview: 
+Live preview: https://tatiahumadacode.github.io/responsive_portfolio/
